@@ -1,1 +1,1 @@
-add 1 minute dealy
+add 1 minute
