@@ -1,4 +1,1 @@
-# jenkins-lab
-
-change readme
-add more to readme
+add 1 minute dealy
